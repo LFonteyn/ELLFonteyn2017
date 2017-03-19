@@ -1,2 +1,2 @@
 # ELLFonteyn2017
-Data and code accompanying response article Fonteyn (2017)
+This repository contains the data and code accompanying the response article Fonteyn (forthc.).
